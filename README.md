@@ -11,9 +11,9 @@ You can add <a href="https://github.com/nanogames-gamer/nanogames.io_crash_bot/r
   </ol>
 </blockquote>
 <p>Parameters:
-<em>Start bet</em>; <em>Base coef</em>
-<em>Skip games</em>(wait sequence with all coef &lt; base coef)
-<em>Martingale steps</em>. Continue aftet loose, if profit &lt; 0 then bet multiplied by 2
+<em>Start bet</em>; <em>Base coef</em>; 
+<em>Skip games</em>(wait sequence with all coef &lt; base coef); 
+<em>Martingale steps</em>. Continue aftet loose, if profit &lt; 0 then bet multiplied by 2; 
 <em>Repeat algorithm</em></p>
 <h1 id="foundstrategy">Found strategy</h1>
 <p>Based on downloaded data from nanogames. From 1660706(01.06.2020)
@@ -22,7 +22,7 @@ virtually played by script with downloaded coefficients use any variations.
 One from profit tactics has the following algorithm:</p>
 <blockquote>
 <ol>
-  <li>Wait sequence from 10 games with coefficients less 3x
+  <li>Wait sequence from 10 games with coefficients less 3x: 
   1.01, 1.02, 2.03, 2.04, 1.05, 2.06, 2.07, 2.08, 2.09</li>
   <li>Do bet on coefficient 3x</li>
   <li>Go to 1-st step</li>
@@ -30,8 +30,8 @@ One from profit tactics has the following algorithm:</p>
 </blockquote>
 <p><img alt="Graphic: virtual play" src="https://github.com/nanogames-gamer/nanogames.io_crash_bot/blob/main/grph.png" width="80%">
 <span style="color:red"><em>Important!!!</em></span> tactic tested virtually on data, not real play.
-Bet play: 1 point
-Start balance: 300 points
+Bet play: 1 point; 
+Start balance: 300 points; 
 After half year balance: 783 points</p>
 
 <h1 id="donation">Donation</h1>
