@@ -22,9 +22,9 @@ virtually played by script with downloaded coefficients use any variations.
 One from profit tactics has the following algorithm:</p>
 <blockquote>
 <ol>
-  <li>Wait sequence from 10 games with coefficients less 3x: 
-  1.01, 1.02, 2.03, 2.04, 1.05, 2.06, 2.07, 2.08, 2.09</li>
-  <li>Do bet on coefficient 3x</li>
+  <li>Wait sequence from 18 games with coefficients less 10x: 
+  1.01, 1.02, 2.03, 2.04, 1.05, 2.06, 2.07, 2.08, 2.09, 9.10, 5.11, 3.12, 7.13, 8.14, 5.15, 6.16, 1.17, 7.18</li>
+  <li>Do bet on coefficient 10x</li>
   <li>Go to 1-st step</li>
 </ol>
 </blockquote>
