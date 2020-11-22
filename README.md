@@ -7,7 +7,7 @@ You can add <a href="https://github.com/nanogames-gamer/nanogames.io_crash_bot/r
   <li>Change mode from "Manual" to "Auto"</li>
   <li>Click "Add a script"</li>
   <li>Enter any name of script</li>
-  <li>Replace template code to <a href=" https://github.com/nanogames-gamer/nanogames.io_crash_bot/raw/main/Nanogames.js" >script</a></li>
+  <li>Replace template code to <a href="https://github.com/nanogames-gamer/nanogames.io_crash_bot/raw/main/Nanogames.js" >script</a></li>
   </ol>
 </blockquote>
 <p>Parameters:
@@ -28,21 +28,21 @@ One from profit tactics has the following algorithm:</p>
   <li>Go to 1-st step</li>
 </ol>
 </blockquote>
-<p><img alt="Graphic: virtual play" src=" https://github.com/nanogames-gamer/nanogames.io_crash_bot/blob/main/grph.png" width="80%">
+<p><img alt="Graphic: virtual play" src="https://github.com/nanogames-gamer/nanogames.io_crash_bot/blob/main/grph.png" width="80%">
 <span style="color:red"><em>Important!!!</em></span> tactic tested virtually on data, not real play.
 Bet play: 1 point
 Start balance: 300 points
 After half year balance: 783 points</p>
-<p>===</p>
+
 <h1 id="donation">Donation</h1>
-<p>1EDj4HVuMAcNB9bUgkjrwjZefwVct2MBS5
- <img alt="Bitcoin" src="http://pngimg.com/uploads/bitcoin/bitcoin_PNG31.png" width="100px"></p>
-<p>0x1966d5975eda4a622d6e39cf237ab2b908124f0f
-  <img alt="Ether" src="https://img2.pngio.com/ethereum-brand-assets-ethereumorg-ethereum-png-4499_7327.png" width = 80px>
+<p>
+<img alt="Bitcoin" src="http://pngimg.com/uploads/bitcoin/bitcoin_PNG31.png" width="100px">1EDj4HVuMAcNB9bUgkjrwjZefwVct2MBS5</p>
+<p>
+  <img alt="Ether" src="https://img2.pngio.com/ethereum-brand-assets-ethereumorg-ethereum-png-4499_7327.png" width = 80px>0x1966d5975eda4a622d6e39cf237ab2b908124f0f
 </p>
-<p>===</p>
+
 <h1 id="referrallink">Referral link</h1>
-<p><a href=" https://n-4q3wseg.nanogames.io/" >
+<p><a href="https://n-4q3wseg.nanogames.io/" >
   <img src="https://nanogames.io/img/shareImage.4cec9d79.png"width="90%"/>
   <em>link: https://n-4q3wseg.nanogames.io/</em>
 </a></p>
