@@ -1,9 +1,9 @@
 var config = {
-  bet: { label: 'start bet', value: currency.minAmount*1, type: 'number' },
+  bet: { label: 'bet', value: currency.minAmount*1, type: 'number' },
   basePayout: { label: 'base coef', value: 3, type: 'number' },
   skipFall: { label: 'skip games, coef less base', value: 10, type: 'number' },
   martingaleSteps: { label: 'martingale steps', value: 1, type: 'number' },
-  games: { label: 'repeat algorithm', value: 20000000, type: 'number' },
+  games: { label: 'repeat algorithm', value: 20000000000000, type: 'number' },
 };
 
 var bet = config.bet.value;
@@ -84,6 +84,7 @@ function main () {
   engine.on('GAME_STARTING', function () {
     if(gamesplayed<config.games.value)
     {
+    if(play){ if(betNext==bets.length){play=false;}}
     if(!play) {play = skipped(); if(play) { betNext = 0; betsSum = 0; bet = config.bet.value; calcBets();}}
     if(play)
     {
